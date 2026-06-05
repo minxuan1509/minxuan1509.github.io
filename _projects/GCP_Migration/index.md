@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise Data Platform Migration (Vertica to GCP)
+title: Enterprise Data Platform Migration (Vertica to GCP) in TELCO industry
 description:  Designing and implementing a large-scale enterprise data migration from Vertica to Google Cloud Platform, including ETL modernization, automated validation, performance optimization, and production deployment strategies.
 skills:
   - Data Engineering
