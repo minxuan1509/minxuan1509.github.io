@@ -13,7 +13,7 @@ skills:
   - Data Modeling
   - Performance Optimization
 
-main-image: /gcp.png
+main-image: /gcp.jpg
 ---
 This project focused on migrating enterprise analytical workloads from an on-premise Vertica environment to Google Cloud Platform (GCP).
 
