@@ -23,13 +23,12 @@ Modernize the data platform
 Improve scalability and maintainability
 Reduce operational overhead
 Enable future cloud-native analytics initiatives
-Minimize disruption to downstream reporting and business users
 
 The migration involved designing ETL pipelines, validating migrated datasets, optimizing performance, and ensuring production readiness.
 
 ## Business Challenge
 
-The existing analytical platform was built on Vertica and had become increasingly difficult to scale as data volume and reporting demands grew.
+The existing analytical platform was built on Vertica and had become increasingly difficult to scale as data volume and syntax of two environment is different.
 
 ### Key challenges included:
 
@@ -37,7 +36,6 @@ Large number of dependent datasets
 Complex transformation logic
 Strict data quality requirements
 Production SLA commitments
-Risk of reporting discrepancies during migration
 
 A successful migration required maintaining business continuity while ensuring data consistency between source and target systems.
 
