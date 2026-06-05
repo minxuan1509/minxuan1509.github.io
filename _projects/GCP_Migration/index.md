@@ -2,18 +2,18 @@
 layout: post
 title: Enterprise Data Platform Migration (Vertica to GCP)
 description:  Designing and implementing a large-scale enterprise data migration from Vertica to Google Cloud Platform, including ETL modernization, automated validation, performance optimization, and production deployment strategies.
-skills: 
-    -Data Engineering
-    -ETL Development
-    -Data Migration
-    -Python
-    -SQL
-    -Google Cloud Platform
-    -Data Validation
-    -Data Modeling
-    -Performance Optimization
+skills:
+  - Data Engineering
+  - ETL Development
+  - Data Migration
+  - Python
+  - SQL
+  - Google Cloud Platform
+  - Data Validation
+  - Data Modeling
+  - Performance Optimization
 
-main-image: /project2.jpg
+main-image: /gcp.png
 ---
 This project focused on migrating enterprise analytical workloads from an on-premise Vertica environment to Google Cloud Platform (GCP).
 
