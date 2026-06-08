@@ -6,8 +6,6 @@ skills:
   - Data quality controls
   - Fact/dimension design
 
-main-image: /sonos.png
+main-image: /edw.webp
 ---
-
-# This is another demo
 

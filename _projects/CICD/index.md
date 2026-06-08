@@ -11,5 +11,3 @@ skills:
 main-image: /GithubActionsCICD.png
 ---
 
-# This is another demo
-

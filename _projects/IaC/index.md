@@ -10,5 +10,3 @@ skills:
 main-image: /azure.webp
 ---
 
-# This is another demo
-
